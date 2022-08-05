@@ -1,0 +1,28 @@
+.bid-Next{
+    background-color: rgb(49, 208, 170);
+    border-radius: 7px;
+}
+.next-header{
+    background-color: rgb(118, 69, 217);
+    color: white;
+}
+.svg-disable{
+    fill: rgb(0, 0, 0,0.5);
+}
+.btn-up{
+    background-color: #31d0aa !important;
+}
+.btn-down{
+    background-color: #ed4b9e !important;
+}
+.next-header{
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.Next-Card{    
+    width: 320px;
+    transition: all 1s;
+}
+.front{
+    transition: all 1s;
+}

@@ -1,0 +1,51 @@
+
+.exp-inner-body{
+    border-radius: 10px;
+    border: solid 1px rgb(49, 208, 170);
+}
+
+.exp-inner-body p{
+    font-weight: 800;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.4);
+}
+.exp-inner-body h4{
+    font-weight: 700;
+    font-size: 24px;
+    color: rgb(49, 208, 170);
+    border-bottom: dotted ;
+}
+.bid-expired{
+    background-color: rgb(49, 208, 170);
+    border-radius: 7px;
+}
+.up-text{
+    position: absolute;
+    background: transparent;
+    top:10px;
+    right: 0;
+    left: 0;
+}
+.down-text{
+    position: absolute;
+    background: transparent;
+    bottom: 15px;
+    right: 0;
+    left: 0;
+}
+.up-text h5{
+    font-weight: 700;
+}
+.down-text h5{
+    font-weight: 700;
+}
+.exp-header{
+    color: rgb(0, 0, 0,0.5);
+}
+.svg-disable{
+    fill: rgb(0, 0, 0,0.5);
+}
+.Expired-Card{
+    opacity: 0.6;
+    width: 320px;
+}

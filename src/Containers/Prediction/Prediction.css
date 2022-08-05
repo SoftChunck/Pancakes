@@ -1,0 +1,53 @@
+.nav-2{
+    height: 30px;
+}
+.Prediction{
+    height: 100%;
+    background: rgb(195, 206, 234);
+    overflow-x: hidden;
+}
+.header-card-slider{
+    background-color: transparent;
+}
+.left-header{
+    background-color: white;
+    color: rgb(40, 13, 95);
+    border-radius: 30px;
+    position: relative;
+}
+.header-left-img{
+    position: absolute;
+    left: -15px;
+}
+.clock{
+    position: relative;
+}
+.clock-img{
+    position: absolute;
+    right: -7px;
+    bottom: -7px;
+}
+.end-header a{
+    background-color: rgb(122, 110, 170);
+}
+.svg-head{
+    fill: white ;
+}
+.a-header-card{
+    width: 60px;
+    height: 60px;
+}
+.card-slider{
+    overflow-x: auto;    
+    margin-bottom: 9rem;
+    justify-content: center;
+} 
+
+@media screen and (min-width:320px) {
+    .card-slider{
+        justify-content: start;
+    } 
+}
+.card-slider::-webkit-scrollbar {
+   width: 0px;
+}

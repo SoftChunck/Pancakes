@@ -1,0 +1,24 @@
+.bid-Later{
+    background-color: rgb(49, 208, 170);
+    border-radius: 7px;
+}
+.Later-header{
+    background-color: #e7e3eb;
+    color: #280d5f;
+}
+.svg-disable{
+    fill: rgb(0, 0, 0,0.5);
+}
+.btn-up{
+    background-color: #31d0aa !important;
+}
+.btn-down{
+    background-color: #ed4b9e !important;
+}
+.Later-header{
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.Later-Card{    
+    width: 320px;
+}
